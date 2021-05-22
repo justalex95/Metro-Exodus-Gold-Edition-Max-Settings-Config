@@ -11,7 +11,7 @@ A config file I created using the gold edition of Metro Exodus that fixes alot o
 Notes and other improvements that can be made:
 - Disable fullscreen optimisations under compatibility mode
 - Do Not run in ANY compatibility mode, it kills FPS... I used it as a fix for the dx12 bug where I couldnt get past the first screen. after this, it isnt needed, so turn it back off after the game starts up correctly
-- I dont use any vsync, freesync or otherwise, not even a frame limiter, but on higher end hardware feel free to limit fps, just know it isnt on by default
+- I dont use any vsync, freesync or anything else, not even a frame limiter, but on higher end hardware feel free to limit fps, just know it isnt on by default
 
 AMD Driver options under the game profile:
 - Tesselation = AMD Optimized
@@ -37,7 +37,7 @@ If your computer cant play the default settings, either go down to high settings
 
 INSTALL
 
-Copy into your Metro Exodus Gold Edition file Directory where user.cfg is located. 
+Copy into your Metro Exodus file Directory where user.cfg is located. 
 
 NOTE: if using any other edition, DO NOT just copy over the file. The enhanced edition will be different and have different features which you will lose when you do this. I've listed the changed lines below. Its safer if you manually make the changes to your config, here are the changes I made...
 
