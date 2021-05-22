@@ -18,6 +18,8 @@ AMD Driver options under the game profile:
 - Texture Quality = High
 - everything else is disabled or left up to the game
 
+- Also, open Task Manager and end the Radeon Host Application process, it uses CPU and has caused stuttering for me in the past
+
 
 Testing Hardware:
 AMD A10 6930P 2.6 ghz quad core APU w/ R5 iGpu and RX460 4GB GDDR5 dGPU, 500GB SATA drive and 2x8gb 2400mhz dual channel ram running Windows 10 21H1
