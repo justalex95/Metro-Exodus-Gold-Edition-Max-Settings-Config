@@ -20,10 +20,11 @@ AMD Driver options under the game profile:
 - everything else is disabled or left up to the game
 
 - Also, open Task Manager and end the Radeon Host Application process, it uses CPU and has caused stuttering for me in the past
-- 
+
 
 
 nVidia Users:
+
 DLSS and Raytracing are set to 0 in the config, If you have an nVidia GPU, go for it. 
 
 
