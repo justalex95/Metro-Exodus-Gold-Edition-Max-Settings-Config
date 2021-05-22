@@ -94,7 +94,9 @@ r_terr_displace_enable 0
 r_vsync 0
 
 
+
 OPTIONAL if you have spare CPU or GPU cycles: r_ssaa_auto change to 1.
+
 
 
 Enjoy
