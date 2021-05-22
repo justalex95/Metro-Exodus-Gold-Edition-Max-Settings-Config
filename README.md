@@ -1,4 +1,7 @@
 # Metro-Exodus-Gold-Edition-Max-Settings-Config
+UPDATE: Added user.cfg with Raytracing Ultra setting enabled
+
+
 A config file I created using the gold edition of Metro Exodus that fixes alot of performance issues without decreasing any graphical options using dX11 API.
 
 
