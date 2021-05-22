@@ -46,7 +46,7 @@ INSTALL
 
 Copy into your Metro Exodus file Directory where user.cfg is located. 
 
-NOTE: if using any other edition, DO NOT just copy over the file. The enhanced edition will be different and have different features which you will lose when you do this. I've listed the changed lines below. Its safer if you manually make the changes to your config, here are the changes I made...
+NOTE: if using any other edition, DO NOT just copy over the file. The enhanced edition will be different and have different features which you will lose when you do this. I've listed the changed lines below. Its safer if you manually make the changes to your config, I advise backing up your user.cfg file and entering all the values here first. I've completely balanced out the config, thats why entering all the values will have a better chance of good results,  here are the changes I made...
 
 ggp_display_timing_pacing 0
 
