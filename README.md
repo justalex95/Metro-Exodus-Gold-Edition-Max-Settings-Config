@@ -25,7 +25,7 @@ AMD Driver options under the game profile:
 
 nVidia Users:
 
-DLSS and Raytracing are set to 0 in the config, If you have an nVidia GPU, go for it. 
+DLSS and Raytracing are set to 0 in the config, If you have an nVidia GPU, go for it, because there'll be alot more headroom for both.
 
 
 
