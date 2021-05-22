@@ -36,30 +36,55 @@ Copy into your Metro Exodus Gold Edition file Directory where user.cfg is locate
 NOTE: if using any other edition, DO NOT just copy over the file. The enhanced edition will be different and have different features which you will lose when you do this. I've listed the changed lines below. Its safer if you manually make the changes to your config, here are the changes I made...
 
 ggp_display_timing_pacing 0
+
 ph_dbg_render_range 100. (make sure physx is enabled)
+
 r_af_level 1
+
 r_api 2
+
 r_aspect_ratio_mode 0
+
 r_blur_level 1
+
 r_dx11_tess 1
+
 r_enum_ssaa 14
+
 r_exposure_control 0.
+
 r_exposure_hdr 1.5
+
 r_foliage_shadows 1
+
 r_fullscreen on
+
 r_fur 0
+
 r_game_mblur_scale 0.75
+
 r_hdr_max_luminance 900.
+
 r_hdr_white_paper 150.
+
 r_old_ambient_envlit 0.
+
 r_quality_level 3
+
 r_res_hor 1920
+
 r_res_vert 1080
+
 r_shading_rate 1.
+
 r_shading_rate_dlisp 1.
+
 r_taa_enabled 1
+
 r_terr_displace_density 0
+
 r_terr_displace_enable 0
+
 r_vsync 0
 
 
