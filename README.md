@@ -65,9 +65,9 @@ r_blur_level 1
 
 r_dx11_tess 1
 
-r_enum_ssaa 14
+r_enum_ssaa 15
 
-r_exposure_control 0.
+r_exposure_control -0.5
 
 r_exposure_hdr 1.5
 
@@ -77,13 +77,15 @@ r_fullscreen on
 
 r_fur 0
 
+r_ssaa_auto 3.
+
 r_game_mblur_scale 0.75
 
 r_hdr_max_luminance 900.
 
 r_hdr_white_paper 150.
 
-r_old_ambient_envlit 0.
+r_old_ambient_envlit -0.6
 
 r_quality_level 3
 
@@ -105,7 +107,6 @@ r_vsync 0
 
 
 
-OPTIONAL if you have spare CPU or GPU cycles: r_ssaa_auto change to 1.
 
 
 
