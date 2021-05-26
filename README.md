@@ -7,7 +7,6 @@ Config files I created using the gold edition of Metro Exodus that fixes alot of
 
 - Improved FPS
 - Ultra settings with all settings maxed or enabled are capable on very low hardware @ 1080p (excluding hairworks)
-- When looking at certain scenes - the train in volga - The FPS drops have been decreased and should be alot more bearable
 - tweaked HDR and lighting to be more realistic and blur to be less annoying
 - Made to be used in conjunction with The Ultra Realism Cine FX reshade preset created by Kycok_Xleba (http://sfx.thelazy.net/games/preset/11012/) after enabling the preset, I also enable Fidelity FX, you dont need to do this but it costs very little in resources.
 
