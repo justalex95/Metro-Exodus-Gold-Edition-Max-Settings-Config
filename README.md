@@ -1,8 +1,8 @@
 # Metro-Exodus-Gold-Edition-Max-Settings-Config
 
-UPDATE NOTE: user FINAL.cfg is the better config IMO but I've left my first attempt up there purely for preference if anyone likes it more, enjoy.
+UPDATE: The Experimental config is me playing with making the game more realistic. HDR is now enabled (sorry thought it was on by default, my bad) eposure and light settings have been balanced for the HDR making the game feel that little bit colder and gritty. 
 
-A config file I created using the gold edition of Metro Exodus that fixes alot of performance issues without decreasing any graphical options using dX11 API.
+Config files I created using the gold edition of Metro Exodus that fixes alot of performance issues without decreasing any graphical options using dX11 API.
 
 
 - Improved FPS
